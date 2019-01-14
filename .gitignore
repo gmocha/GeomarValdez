@@ -1,1 +1,20 @@
+vendedor/
+nódulos de nodo /
+npm-debug.log
 
+# Laravel 4 especifico
+bootstrap / compiled.php
+aplicación / almacenamiento /
+
+# Laravel 5 & Lumen especifico
+público / almacenamiento
+público / caliente
+clave de almacenamiento / *.
+.env. *. php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+
+# Corredor de tareas de PHP Rocketeer y paquete de despliegue https://github.com/rocketeers/rocketeer
+.rocketeer /
